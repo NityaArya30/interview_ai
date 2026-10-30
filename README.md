@@ -1,22 +1,43 @@
-**Use your preferred IDE**
+# InterviewAI — IntelliView
 
-If you want to work locally using your own IDE, you can clone this repo and push changes.
+An AI-powered interview preparation platform designed to help candidates practice and prepare for interviews.
 
-Follow these steps:
+## 🚀 Live Demo
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Try IntelliView here: **[https://intelliview.lovable.app/](https://intelliview.lovable.app/)**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🖥️ Screenshots
 
-# Step 3: Install the necessary dependencies.
-npm i
+Screenshots of the live application will be added here.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 💻 Run Locally
+
+### Prerequisites
+- Node.js and npm
+
+### Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/NityaArya30/interview_ai.git
+
+# Move into the project directory
+cd interview_ai
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
 ```
 
+## 🛠️ Built With
 
+- React / Vite
+- TypeScript
+- Tailwind CSS
+- Lovable
 
+---
+
+Made with ❤️ to make interview preparation more accessible.

@@ -69,6 +69,44 @@ Supabase
 - React Hook Form and Zod
 - Vitest, Testing Library, ESLint
 
+
+
+## Skills Demonstrated
+
+### AI, Machine Learning, and Generative AI
+- **Generative AI integration:** Calling an LLM through the Lovable AI Gateway for interview question generation, answer feedback, and code/test-case evaluation.
+- **LLM prompting:** Role-aware prompts, difficulty-based question generation, and structured evaluation instructions.
+- **AI-assisted assessment:** Feedback and scoring workflows for technical answers and DSA submissions.
+- **Applied AI integration:** Connecting frontend interview workflows to a server-side AI function rather than exposing the AI credential in client code.
+
+### Computer Vision and Camera Integration
+- Browser webcam access using the MediaDevices API and `getUserMedia`.
+- Live video preview, camera permissions, stream lifecycle management, and camera on/off controls.
+- Emotion-indicator UI prototype for the interview experience.
+
+> **Accuracy note:** The current webcam component provides camera capture and a simulated emotion indicator. The repository code reviewed does not implement actual face recognition or a trained facial-expression recognition model, so those are not claimed as completed features.
+
+### Full-Stack and Backend Integration
+- React, TypeScript, and Vite
+- Supabase authentication and user-scoped session data
+- Supabase Edge Functions using Deno
+- REST-style request handling and JSON responses
+- Environment-based secrets and authenticated AI requests
+
+### Data, Algorithms, and Developer Tools
+- DSA problem categories and difficulty levels
+- Monaco Editor integration for coding practice
+- AI-assisted test-case evaluation workflow
+- Session history, scoring, and performance analytics
+- Recharts visualizations for progress tracking
+
+### UI Engineering and Quality
+- Tailwind CSS, shadcn/ui, and Radix UI
+- React Router, reusable components, and custom hooks
+- Framer Motion animations
+- React Hook Form and Zod
+- Vitest, Testing Library, and ESLint
+
 ## Run Locally
 
 Requirements: Node.js, npm, and the project’s Supabase environment configuration for connected backend features.

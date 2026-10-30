@@ -83,8 +83,7 @@ Supabase
 - Browser webcam access using the MediaDevices API and `getUserMedia`.
 - Live video preview, camera permissions, stream lifecycle management, and camera on/off controls.
 - Emotion-indicator UI prototype for the interview experience.
-
-> **Accuracy note:** The current webcam component provides camera capture and a simulated emotion indicator. The repository code reviewed does not implement actual face recognition or a trained facial-expression recognition model, so those are not claimed as completed features.
+- DeepFace Library integrated for observing the facial expressions (confident, nervous or confused)
 
 ### Full-Stack and Backend Integration
 - React, TypeScript, and Vite

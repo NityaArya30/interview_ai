@@ -1,4 +1,4 @@
-# InterviewAI — IntelliView
+# InterviewAI 
 
 An AI-powered interview preparation platform designed to help candidates practice and prepare for interviews.
 
